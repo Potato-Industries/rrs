@@ -1,2 +1,6 @@
 # rrs
-portable rakudo based reverse shell
+rakudo based reverse shell
+
+https://rakudo.org/
+
+Enjoy~
